@@ -736,13 +736,13 @@ ul.dropdown-cart li .item-right button{
    
 /*==  Inside modal Quiz  ==*/
 .modal{
-  padding: 100px !important;
+  padding: 0px !important;
 }
 
 .form-control {
     font-size: 16px !important;
     width: 100%;
-    height: 52px;
+    height: 52px !important;
     margin-bottom: 10px;
     border: 2px solid #00438C;
     background: white;
