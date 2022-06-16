@@ -267,7 +267,7 @@ ul.dropdown-cart li .item-right button{
 }
 
 .landingpage{
-	height: 400px;
+	height: 700px;
 }
 
  .landingpage {
@@ -736,22 +736,16 @@ ul.dropdown-cart li .item-right button{
    
 /*==  Inside modal Quiz  ==*/
 .modal{
-  padding: 0px!important;
+  padding: 100px !important;
 }
 
 .form-control {
-    font-size: 14px !important;
-    font-weight: 600 !important;
-    width: 100% !important;
-    height: 52px!important;
-    padding: 0px;
-    margin-bottom: 10px!important;
-    box-shadow: 0;
-    outline: none;
+    font-size: 16px !important;
+    width: 100%;
+    height: 52px;
+    margin-bottom: 10px;
     border: 2px solid #00438C;
-    background: transparent;
-    color: #00438C;
-    font-weight: 600;
+    background: white;
 }
 
 .btn-success{
@@ -825,7 +819,6 @@ ul.dropdown-cart li .item-right button{
 .btn-next,
 .btn-back{
 	margin-top: 20px;
-	display: block;
 }
 
 /* Animations Settings */
@@ -1470,7 +1463,7 @@ label {
 .form-control1 {
   border-radius: 0px!important;
   color: red;
-  font-size: 14px !important;
+  font-size: 16px !important;
   font-weight: 600 !important;
   width: 100% !important;
   height: 52px!important;
